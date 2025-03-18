@@ -5,7 +5,7 @@
 #Inputs :- username,token,Repository Owner,Repository Name
 #Owner :- Aniruddha Kharve
 ################################################################################################################################################
-helper()
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
