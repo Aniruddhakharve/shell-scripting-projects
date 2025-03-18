@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ##############################################################################################################################################
-#About :- 
-#Inputs :-
-#Owner :-
+#About :- This shell script is designed to list users who have read access (pull permission) to a specific GitHub repository.It utilizes the GitHub API to fetch collaborators with read access.
+#Inputs :- username,token,Repository Owner,Repository Name
+#Owner :- Aniruddha Kharve
 ################################################################################################################################################
 helper()
 # GitHub API URL
