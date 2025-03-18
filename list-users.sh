@@ -47,7 +47,7 @@ expected_cmd_args=2
 if [ $# -ne $expected_cmd_args ]; then
 echo "plz execute the script with required cmd args"
 echo "asd"
-
+fi
 }
 # Main script
 
